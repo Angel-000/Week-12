@@ -1,0 +1,33 @@
+
+body{
+    color: white;
+    background-color: #6a3aaa;
+}
+
+.modal-body {
+    background-color: #6a3aaa;
+}
+
+.modal-header {
+    background-color: #6a3aaa;
+}
+
+.modal-footer {
+    background-color: #6a3aaa;
+}
+
+.vehicle {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    cursor: pointer;
+  }
